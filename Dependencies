@@ -1,2 +1,0 @@
-pkg install ffmpeg python curl wget toilet figlet neofetch -y
-pip install pytube requests rich
